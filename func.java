@@ -1,1 +1,1 @@
-System.out.println("Hello wordl")
+System.println("Hello wordl")
